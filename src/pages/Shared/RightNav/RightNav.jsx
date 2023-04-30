@@ -22,7 +22,7 @@ const RightNav = () => {
             </div>
             <QZone />
             <div>
-                <img src={bg} alt="" />
+                <img className='w-100' src={bg} alt="" />
             </div>
         </section>
     );
